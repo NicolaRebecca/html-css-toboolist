@@ -29,7 +29,7 @@ h1{
     color: white;
     display: inline-block;
     width: 70px;
-    height: 30px;
+    height: 25px;
     border:1px blue;
     border-radius: 5px;
     padding-top: 5px;
@@ -44,7 +44,7 @@ h1{
     color: gray;
     display: inline-block;
     width: 80px;
-    height: 30px;
+    height: 25px;
     border:1px solid gray;
     border-radius: 5px;
     padding-top: 5px;
@@ -52,4 +52,102 @@ h1{
     font-size: 13px;
     text-align: center;
     
+}
+
+h2{
+    margin-left: 150px;
+}
+
+.lists{
+    margin-left:150px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .editorial{
+  color: white;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    border:1px blue;
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    text-align: center;
+    background-color:cornflowerblue;
+}
+
+.goals{
+    color: white;
+      display: inline-block;
+      width: 60px;
+      height: 20px;
+      border:1px blue;
+      border-radius: 10px;
+      padding-top: 5px;
+      margin-bottom: 5px;
+      font-size: 13px;
+      text-align: center;
+      background-color:blueviolet;
+}
+
+.recruit{
+    color: white;
+      display: inline-block;
+      width: 60px;
+      height: 20px;
+      border:1px blue;
+      border-radius: 10px;
+      padding-top: 5px;
+      margin-bottom: 5px;
+      font-size: 13px;
+      text-align: center;
+      background-color:rgb(49, 219, 72);
+}
+
+.mobile{
+    color: white;
+      display: inline-block;
+      width: 60px;
+      height: 20px;
+      border:1px blue;
+      border-radius: 10px;
+      padding-top: 5px;
+      margin-bottom: 5px;
+      font-size: 13px;
+      text-align: center;
+      background-color:rgb(221, 112, 48);
+}
+
+.website{
+    color: white;
+      display: inline-block;
+      width: 60px;
+      height: 20px;
+      border:1px blue;
+      border-radius: 10px;
+      padding-top: 5px;
+      margin-bottom: 5px;
+      font-size: 13px;
+      text-align: center;
+      background-color:rgb(226, 63, 177);
+}
+
+.sales{
+    color: white;
+      display: inline-block;
+      width: 60px;
+      height: 20px;
+      border:1px blue;
+      border-radius: 10px;
+      padding-top: 5px;
+      margin-bottom: 5px;
+      font-size: 13px;
+      text-align: center;
+      background-color:rgb(56, 117, 64);
 }
